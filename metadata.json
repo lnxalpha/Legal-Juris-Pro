@@ -1,0 +1,7 @@
+{
+  "name": "JurisCompare AI",
+  "description": "A high-performance legal document comparator that uses Gemini AI to identify semantic differences, legal risks, and clause inconsistencies between two documents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
